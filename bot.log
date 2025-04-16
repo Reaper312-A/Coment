@@ -1,0 +1,6 @@
+2025-04-15 20:25:32,419 - __main__ - WARNING - API_ID и/или API_HASH не заданы. Некоторые функции могут не работать.
+2025-04-15 20:25:32,419 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-15 20:25:35,518 - __main__ - INFO - Бот запущен и готов к работе
+2025-04-15 20:28:25,654 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2025-04-15 20:28:25,654 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-15 20:28:29,061 - telegram.ext.updater - WARNING - Exiting immediately!
